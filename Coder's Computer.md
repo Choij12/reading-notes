@@ -16,3 +16,8 @@
 - 1. Text editors: Edits text & manages files
 - 2. IDE (Integrated Development Environment): All in one program that contains text editor, file manager, a complier, and a debugger. 
 - 3. There are programs that are more code specific text editors that are soley focused on coding for example, a notepad is a "basic" text editor vs VS Code is primarily for coding. 
+
+- Basic Terminal Usage Resources through Ryans Tutorial: 
+- 1. [Command line](https://ryanstutorials.net/linuxtutorial/commandline.php#shortcuts)
+- 2. [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+- 3. [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
