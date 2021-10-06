@@ -13,7 +13,7 @@ I am a student at CodeFellows.
 # Table of Content:
 - [Growth Mindset](growth_mindset.md)
 - [Markdown](markdown.md)
-- [Coder's Computer](Coder's_Computer.md)
+- [Coder's Computer](Coders_Computer.md)
 - [Revisions and the Cloud](Revisions_and_the_cloud.md)
 - [Structure web pages](Structure_Web_Pages_With_HTML.md)
 - [CSS](CSS.md)
