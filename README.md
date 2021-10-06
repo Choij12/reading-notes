@@ -15,6 +15,6 @@ I am a student at CodeFellows.
 - [Markdown](markdown.md)
 - [Coder's Computer](Coders_Computer.md)
 - [Revisions and the Cloud](Revisions_and_the_cloud.md)
-- [Structure web pages](Structure_Web_Pages_With_HTML.md)
+- [Structure web pages](Structure_Web_Pages_with_HTML.md
 - [CSS](CSS.md)
 - [JavaScript](Javascript.md)
