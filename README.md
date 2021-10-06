@@ -11,8 +11,9 @@ Hello, I am Jacob Choi.
 I am a student at CodeFellows.
 
 # Table of Content:
--[Growth Mindset](https://github.com/Choij12/reading-notes/blob/main/growth%20mindset.md)
--[Markdown](https://github.com/Choij12/reading-notes/blob/main/markdown.md)
--[Coder's Computer](https://github.com/Choij12/reading-notes/blob/main/Coder's%20Computer.md)
--[Revisions and the Cloud](https://github.com/Choij12/reading-notes/blob/main/Revisions%20and%20the%20cloud.md)
--[Structure web pages](https://github.com/Choij12/reading-notes/blob/main/Structure%20Web%20Pages%20with%20HTML.md)
+- [Growth Mindset](https://github.com/Choij12/reading-notes/blob/main/growth%20mindset.md)
+- [Markdown](https://github.com/Choij12/reading-notes/blob/main/markdown.md)
+- [Coder's Computer](https://github.com/Choij12/reading-notes/blob/main/Coder's%20Computer.md)
+- [Revisions and the Cloud](https://github.com/Choij12/reading-notes/blob/main/Revisions%20and%20the%20cloud.md)
+- [Structure web pages](https://github.com/Choij12/reading-notes/blob/main/Structure%20Web%20Pages%20with%20HTML.md)
+- [CSS](https://github.com/Choij12/reading-notes/blob/main/CSS.md)
