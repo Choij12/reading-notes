@@ -17,3 +17,4 @@ I am a student at CodeFellows.
 - [Revisions and the Cloud](https://github.com/Choij12/reading-notes/blob/main/Revisions%20and%20the%20cloud.md)
 - [Structure web pages](https://github.com/Choij12/reading-notes/blob/main/Structure%20Web%20Pages%20with%20HTML.md)
 - [CSS](https://github.com/Choij12/reading-notes/blob/main/CSS.md)
+- [JavaScript](https://github.com/Choij12/reading-notes/blob/main/Javascript.md)
