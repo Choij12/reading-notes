@@ -30,7 +30,7 @@
 - 5. add details and test
 - 6. begin turning wireframes into prototypes
 
-##### Three priniciples that are key to a good wireframe
+##### Three principles that are key to a good wireframe
 - clarity: answer the question of what the site is
 - confidence: easy navigation
 - simplicity: stay away from things that can be distracting to the user
@@ -58,7 +58,7 @@
 - 1. search engines will consider its content as important 
 - 2. can help visually impared users navigate a page
 - 3. easier to find blocks of meaningful code
-- 4. suggests that the type of data will ve populated
+- 4. suggests that the type of data will be populated
 - 5. mirrors proper custom elememt
   
 
