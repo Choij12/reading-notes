@@ -19,3 +19,4 @@ I am a student at CodeFellows.
 - [CSS](CSS.md)
 - [JavaScript](Javascript.md)
 - [Programming with JavaScript](Programming_with_JavaScript.md) 
+- [Operators and Loops](Operators&Loops.md)
