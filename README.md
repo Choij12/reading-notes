@@ -1,4 +1,4 @@
-# reading-notes for 201
+# Code 201 Reading Notes
 This is my reading notes for CodeFellows.
 
 ## Introduction
@@ -10,7 +10,7 @@ Hello, I am Jacob Choi.
 
 I am a student at CodeFellows.
 
-# Table of Content for Reading Notes 102:
+# Table of Content for Code 102 Reading Notes:
 - [Growth Mindset](growth_mindset.md)
 - [Markdown](markdown.md)
 - [Coder's Computer](Coders_Computer.md)
@@ -21,4 +21,4 @@ I am a student at CodeFellows.
 - [Programming with JavaScript](Programming_with_JavaScript.md) 
 - [Operators and Loops](Operators&Loops.md)
 
-# Table of Content for Reading Notes 201:
+# Table of Content for Code 201 Reading Notes:
