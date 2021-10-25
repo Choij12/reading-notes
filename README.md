@@ -10,7 +10,7 @@ Hello, I am Jacob Choi.
 
 I am a student at CodeFellows.
 
-# Table of Content:
+# Table of Content for Reading Notes 102:
 - [Growth Mindset](growth_mindset.md)
 - [Markdown](markdown.md)
 - [Coder's Computer](Coders_Computer.md)
@@ -20,3 +20,5 @@ I am a student at CodeFellows.
 - [JavaScript](Javascript.md)
 - [Programming with JavaScript](Programming_with_JavaScript.md) 
 - [Operators and Loops](Operators&Loops.md)
+
+# Table of Content for Reading Notes 201:
