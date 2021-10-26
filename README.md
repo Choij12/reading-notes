@@ -22,3 +22,5 @@ I am a student at CodeFellows.
 - [Operators and Loops](Operators&Loops.md)
 
 # Table of Content for Code 201 Reading Notes:
+- [Intro to HTML and JS]
+- [Basics of HTML, CSS & JS](class-02.md) 
