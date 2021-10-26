@@ -1,0 +1,14 @@
+# HTML 
+- text documents 
+- with proper tags to give info
+- tags are also elements 
+- tags come in pairs
+- openings tags can carry attribute
+- attribute - name and value
+- `<DOCTYPE>` - which HTML versions 
+- add comments between `<!..>` 
+- indetify elements by using id and class
+- group blocklevel and inline by using `<div>` and `<span>`
+- cut windows by using `<iframes>`
+- supply info `<meta>`
+- 
