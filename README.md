@@ -25,3 +25,4 @@ I am a student at CodeFellows.
 - [Intro to HTML and JS](class-01.md)
 - [Basics of HTML, CSS & JS](class-02.md) 
 - [HTML Lists, CSS Boxes, Decisions & Loops](class-03.md)
+- [HTML Links, CSS Layout, JS Functions](class-04.md)
