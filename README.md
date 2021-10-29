@@ -26,3 +26,4 @@ I am a student at CodeFellows.
 - [Basics of HTML, CSS & JS](class-02.md) 
 - [HTML Lists, CSS Boxes, Decisions & Loops](class-03.md)
 - [HTML Links, CSS Layout, JS Functions](class-04.md)
+- [Images, Color, Texts](class-05.md)
