@@ -29,3 +29,4 @@ I am a student at CodeFellows.
 - [Images, Color, Texts](class-05.md)
 -[Problem Domain, Objects, and the DOM](class-06.md)
 -[Object-Oriented Programming, HTML Tables](class-07.md)
+- [More CSS layouts](class-08.md)
