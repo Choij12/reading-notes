@@ -1,0 +1,12 @@
+# CSS Layouts
+- to contain and group together sections use `<div>`
+- normal flow is standard unless users specify relative, absolute, or fixed
+- to move contents left & right, use float property
+- float also allows users to create multi-column
+- floated items require the users to define width
+- fixed width or liquid layouts
+- typical size - 960-1000 pixels wide
+- top 600 pixels are the content about what the page is about
+- professional and flexible designs are the help with grids
+- CSS frameworks provide rules to the user for tasks
+- users are able to include multiple CSS files in a single page
