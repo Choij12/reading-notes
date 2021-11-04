@@ -12,7 +12,7 @@
 - error objects can help find where the mistakes are made
 - how to deal with errors
 - 1. debug the script to fix errors
-- handle errors gracefully
+- 2. handle errors gracefully
 - debugging is about deduction 
 - console helps narrrow down the area to find the error
 - JS has 7 different types of errors
