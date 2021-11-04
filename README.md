@@ -31,3 +31,4 @@ I am a student at CodeFellows.
 -[Object-Oriented Programming, HTML Tables](class-07.md)
 - [More CSS layouts](class-08.md)
 - [Forms & JS Events](class-09.md)
+- [JS Debugging](class-10.md)
