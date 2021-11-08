@@ -1,0 +1,48 @@
+# Chart.js
+- charts are better for displaying data visually 
+- easier to look at and convey data quickly
+- not as easy to create
+- download chart.js
+- draw a line chart
+- create data
+- draw a pie chart
+- get the context and to instantiate the chart
+- supply some option to the chart
+- draw the bar chart
+- retrieve the element and create the graph
+- and add the bar chart's data
+## Canvas API
+- `<canvas>` doesn't have `src` and `alt` attributes
+- can look like `<img>`
+- only two attributes width and height
+- optional and can be set using DOM properties 
+- initally be 300px wide and 150px high
+- can be styled with margin, border, background...
+- doesnt affect the actual drawing on the canvas 
+- easy to define some fallback content
+- requires closing tags
+- unlike `<SVG>` it only supports two primitive shapes
+- `fillRect()` function draws large black square 
+- `clearRect()` erases square from the circle
+- `strokeRect()` is called to create a rectangular outline
+- Path methods - set different paths for objects
+- `closePath()` add a straight line to the path
+- `stroke()` draws the shape by stroking its outline
+- `fill()` draws the solid shape by filling the path's content
+- `moveTo(x,y)` moves the pen to the coordinates specified by x and y
+- fillstyle = color - sets the style used when filling shapes
+- strokeStyle = color - sets the style for shapes outlines
+- `globalAlpha = transparencyValue`
+- using `rgba()` gives the user a little more control and flexibility 
+- `lineWidth = value` - sets the width of lines drawn
+- `lineCap = type` - sets the appearance of the ends of the lines
+- `lineJoin = type` - sets the appearance of the corners where the lines meet
+- `miterLimit = value` sets the limit on a miter 
+- `getLineDash()` returns the current line dash pattern array of even of non negative numbers
+- `setLineDash(segments)` sets the current line dash pattern
+- styling texts
+- font = value - current text style being used when drawing text
+- textAlifn = value - text aligment setting
+- textBaseline = value - baseline alignment setting
+- direction = value - directionality
+- measureText - returns a textmetrics
