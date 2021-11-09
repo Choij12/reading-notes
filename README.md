@@ -34,3 +34,4 @@ I am a student at CodeFellows.
 - [JS Debugging](class-10.md)
 - [Audio, Video, and Images](class-11.md)
 - [Charts.js, Canvas](class-12.md)
+- [Local Storage](class-13.md)
