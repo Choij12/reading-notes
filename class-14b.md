@@ -1,0 +1,26 @@
+# "The Past, Present, and Future of Local Storage for Web Applications"
+- Juila Rozovsky didn't know what she wanted to do 
+- had different jobs 
+- 2009 she applied to business schools and accepted to Yale school of management 
+- assigned to a study group
+- got stressed from the study group
+- conflict in study groups
+- started to look for other groups
+- joined a case competition team
+- everyone got along in that group despite different backgrounds
+- no judgment in ideas 
+- team settled on a plan for microgym 
+- won competeition 
+- her study group dissolved by second semester 
+- case team stuck together for 2 years 
+- firms have realized that employee performance optimization isnt enough
+- project aristole reserchers began by reviewing a half century of academic studies looking at how teams worked
+- almost impossible to find patters
+- group norms
+- understanding and influencing group norms were the keys to improving teams
+- teams that failed at one thing seemed to fail at everything
+- concluded that "good" teams was how teammates treated one another
+- equality in distribution of conversational turn taking
+- average social sensitivity 
+- for projefct aristotle, pointed to particular norms that are vital to success
+- clear goals, creating a culture of dependabilty 
