@@ -28,4 +28,4 @@ This is my reading notes for CodeFellows.
 - [Local Storage](class-13.md)
 
 ## Table of Content for Code 301 Reading Notes:
-- [Introduction to React and Components
+- [Introduction to React and Components]
