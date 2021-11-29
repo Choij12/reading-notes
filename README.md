@@ -29,3 +29,4 @@ This is my reading notes for CodeFellows.
 
 ## Table of Content for Code 301 Reading Notes:
 - [Introduction to React and Components](301-01.md)
+- [State and Props](301-02.md)
