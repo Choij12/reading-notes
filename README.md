@@ -30,3 +30,7 @@ This is my reading notes for CodeFellows.
 ## Table of Content for Code 301 Reading Notes:
 - [Introduction to React and Components](301-01.md)
 - [State and Props](301-02.md)
+- [HTML Lists](301-03.md)
+
+## Table of Content for Code 401 Reading Notes:
+- [Prework Reading](401-pre.md)
