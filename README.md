@@ -33,4 +33,3 @@ This is my reading notes for CodeFellows.
 - [HTML Lists](301-03.md)
 
 ## Code 401 - Advanced Software Development:
-- [Prework Reading](401-pre.md)
